@@ -9,7 +9,7 @@ Heuremen LLC measures published claims against the data behind them.
 | [heuremen.org](https://github.com/Heuremen-LLC/heuremen.org) | Papers, run data and code from the physics work |
 | [indahl.ai](https://github.com/Heuremen-LLC/indahl.ai) | The indexes, check scripts and data downloads published on indahl.ai |
 
-Live now on indahl.ai: IBM and Amazon Braket calibration, language-model evaluations, vendor claims against published results, public time servers, a blockchain against its own whitepaper, public DNS filters, vendor status pages against probes, weather forecast calibration, government data update cadence, data center and power infrastructure, and a read-only [data API and MCP server](https://indahl.ai/api), clinical trial results due against results posted.
+Live now on indahl.ai: IBM and Amazon Braket calibration, language-model evaluations, vendor claims against published results, public time servers, a blockchain against its own whitepaper, public DNS filters, vendor status pages against probes, weather forecast calibration, government data update cadence, clinical trial results due against results posted, data center and power infrastructure, and a read-only [data API and MCP server](https://indahl.ai/api).
 
 ## Coming soon
 
