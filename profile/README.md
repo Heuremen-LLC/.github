@@ -4,21 +4,10 @@
 
 Heuremen LLC measures published claims against the data behind them.
 
-| Repository | What it holds |
-|---|---|
-| [heuremen.org](https://github.com/Heuremen-LLC/heuremen.org) | Papers, run data and code from the physics work |
-| [indahl.ai](https://github.com/Heuremen-LLC/indahl.ai) | The indexes, check scripts and data downloads published on indahl.ai |
+Everything we publish lives in one repository: [Heuremen-LLC/indahl.ai](https://github.com/Heuremen-LLC/indahl.ai). It holds the site, each desk's plan, code and data, the Faults and Guards package (`code/faultsguards`), the probes behind SEAT, UPTIME, TIME and LINKROT (`code/nodes`) and the paper sources (`code/papers`).
 
-Live now on indahl.ai: IBM and Amazon Braket calibration, language-model evaluations, vendor claims against published results, public time servers, a blockchain against its own whitepaper, public DNS filters, vendor status pages against probes, weather forecast calibration, government data update cadence, clinical trial results due against results posted, launch times against flights, data center and power infrastructure, and a read-only [data API and MCP server](https://indahl.ai/api).
+- Site: [indahl.ai](https://indahl.ai)
+- Data downloads: [huggingface.co/indahl](https://huggingface.co/indahl)
+- Data API and MCP server: [indahl.ai/api](https://indahl.ai/api)
 
-## Coming soon
-
-Each one holds a public claim against a public record, updates live, and has its plan and rules committed before the first measurement.
-
-- Broadband labels against measured speeds, by provider and region.
-- Link rot in papers: "code and data are available at" against whether the link still works.
-- Air quality sensor accuracy: consumer sensor claims against reference monitors nearby.
-
-Websites: [heuremen.org](https://heuremen.org) and [indahl.ai](https://indahl.ai)
-
-Terms: see LICENSE.txt in each repository. Policy: https://indahl.ai/terms#ai-training
+Three working repositories stay public beside it: [nodes](https://github.com/Heuremen-LLC/nodes) runs the probes, [faultsguards](https://github.com/Heuremen-LLC/faultsguards) is the source the PyPI package installs from, and [linkrot-empty-control](https://github.com/Heuremen-LLC/linkrot-empty-control) is the empty control LINKROT checks against. Their contents are copied into indahl.ai on every release.
