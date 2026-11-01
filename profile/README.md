@@ -4,7 +4,7 @@
 
 Heuremen LLC measures published claims against the data behind them.
 
-Everything we publish lives in one repository: [Heuremen-LLC/indahl.ai](https://github.com/Heuremen-LLC/indahl.ai). It holds the site, each desk's plan, code and data, the Faults and Guards package (`code/faultsguards`), the probes behind SEAT, UPTIME, TIME and LINKROT (`code/nodes`) and the paper sources (`code/papers`).
+Everything we publish lives in one repository: [Heuremen-LLC/indahl.ai](https://github.com/Heuremen-LLC/indahl.ai). It holds the site and its build source (`code/site`), each desk's plan, code and data, the Faults and Guards package (`code/faultsguards`), the probes behind SEAT, UPTIME, TIME and LINKROT (`code/nodes`) and the paper sources (`code/papers`).
 
 - Site: [indahl.ai](https://indahl.ai)
 - Data downloads: [huggingface.co/indahl](https://huggingface.co/indahl)
