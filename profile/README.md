@@ -1,6 +1,6 @@
 # Heuremen LLC
 
-"We found it."
+We found it.
 
 Heuremen LLC measures published claims against the data behind them.
 
